@@ -4,7 +4,7 @@
 
 We learn how to use linters in our project.
 
-![Screenshot](images/capture.png)
+![Screenshot](images/Capture.png)
 ## Built With
 - Html
 - Css
