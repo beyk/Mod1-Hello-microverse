@@ -8,7 +8,13 @@ We learn how to use linters in our project.
 ## Built With
 - Html
 - Css
+## Getting Started
 
+**This is an simple example of how you may useing .gitignore and linters.**
+
+
+
+Feel free to fork it.
 ## Authors
 👤 **Beyk**
 - GitHub: [@beyk](https://github.com/beyk)
